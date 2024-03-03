@@ -22,7 +22,7 @@ Data_aquisition/
 RootCode/
 MISC/
 
-
+data_aug/
 data/
 
 /datasets/images/test/*
