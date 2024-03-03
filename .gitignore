@@ -1,0 +1,34 @@
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# Environments
+.env
+.venv
+env/
+venv/
+ENV/
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+__pycache__
+
+# VSCode
+*.code-workspace
+.vscode/
+
+.DS_Store
+
+Data_aquisition/
+RootCode/
+MISC/
+
+
+data/
+
+/datasets/images/test/*
+/datasets/images/train/*
+/datasets/images/valid/*
+
+/datasets/labels/test/*
+/datasets/labels/train/*
+/datasets/labels/valid/*

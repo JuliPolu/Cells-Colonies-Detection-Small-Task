@@ -1,0 +1,4 @@
+nc: 3
+path: ./datasets
+train: images/train
+val: images/valid
